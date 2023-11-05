@@ -1,0 +1,104 @@
+{
+    "center_subtitle1": {
+      "en": "🚀 Try It Now, in 3 Simple Steps 🚀"
+    },
+    "step_one": {
+      "en": "Step 1: Export Review List from E-commerce Platform"
+    },
+    "step_one_subtitle": {
+      "en": "Prepare the exported .xlsx review list file before analysis"
+    },
+    "step_one_instruction": {
+      "en": "How to Export Reviews from E-commerce Platforms"
+    },
+    "step_one_write1": {
+      "en": "We support direct export from Ecommerce sites and nearly all popular browser extensions, including Data Miner Scrapper, Webrobots, and APIFY."
+    },
+    "step_one_write2": {
+      "en": "Choose your favorite extension to export the review list. We are compatible with them all."
+    },
+    "step_one_write3": {
+      "en": "Select the .xlsx format when exporting."
+    },
+    "step_two_markdown": {
+      "en": "Step 2: Upload the Review List"
+    },
+    "step_two_uploaded": {
+      "en": ""
+    },
+    "step_two_col2_markdown": {
+      "en": "##### Please upload the review list on the right 👉"
+    },
+    "step_two_col2_markdown2": {
+      "en": "✅ Use the .xlsx format</br>✅ Upload the file unmodified."
+    },
+    "step_two_warning": {
+      "en": "Please upload a table file that contains review content first."
+    },
+    "step_two_success1": {
+      "en": "File uploaded successfully! Your file contains {} valid reviews.</br>Due to the capacity limit of the test version, the first {} valid reviews will be analyzed."
+    },
+    "step_two_success2": {
+      "en": "File uploaded successfully! Your file contains {} valid reviews."
+    },
+    "step_two_expander": {
+      "en": "Expand the review list to be analyzed"
+    },
+    "step_two_with_markdown": {
+      "en": "*Review content is combined for the first review and subsequent follow-up comments from the same user*"
+    },
+    "step_two_error": {
+      "en": "File is incorrect. Please make sure you upload a valid file containing review content."
+    },
+    "step_three_markdown": {
+      "en": "Step 3: Customize and Start Your Analysis 🚀"
+    },
+    "step_three_markdown2": {
+      "en": "Enter product information and your focus to obtain more customized analysis results"
+    },
+    "step_three_prod_info": {
+      "en": "Enter Product Category"
+    },
+    "step_three_prod_info-placeholder": {
+      "en": "E.g., electric toothbrush, infant formula, women's dresses..."
+    },
+    "step_three_selected_focus": {
+      "en": "Select Your Focus"
+    },
+    "step_three_selected_position": {
+      "en": "Select Your Position"
+    },
+    "step_three_advanced_options": {
+      "en": "Advanced Analysis Options (optional)"
+    },
+    "step_three_advanced_options_markdown": {
+      "en": "Enter a specific question you want to know from the review list"
+    },
+    "step_three_input_question": {
+      "en": "Please enter in the form of a question"
+    },
+    "step_three_input_question_placeholder": {
+      "en": "E.g., Do customers like feature A of this product?"
+    },
+    "step_three_step3b_col1": {
+      "en": "Select the model you want to use"
+    },
+    "step_three_selected_model": {
+      "en": "Model Selection (please refer to the model comparison table below for model selection)"
+    },
+    "step_three_selected_model2": {
+      "en": "Auto Recommendation"
+    },
+    "step_three_button": {
+      "en": "Start Analysis"
+    },
+    "step_three_header": {
+      "en": "Analysis Results"
+    },
+    "step_three_analyze_result": {
+      "en": "Analysis results are being generated, please wait 5-10 seconds...</br>Please do not click the 【Start Analysis】 button repeatedly."
+    },
+    "step_three_selected_model3": {
+      "en": "Auto Recommendation"
+    }
+}

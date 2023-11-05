@@ -1,0 +1,30 @@
+{
+    "welcome": {
+      "en": "Hi, Welcome to"
+    },
+    "insightful_reviews": {
+      "en": "Lightning Insights ⛳️"
+    },
+    "tailored_for_every_role": {
+      "en": "Provide **Insightful Reviews** Tailored for Every Role, in 30 Seconds"
+    },
+    "choose_language": {
+      "en": "Choose your language"
+    },
+    "time_saving_subtitle": {
+      "en": "⚡️ Lightning-Fast Insights: Comprehensive Analysis in 30 Seconds ⚡️"
+    },
+    "time_saving_description": {
+      "en": "Leveraging cutting-edge 🧠 large language models </br>Process up to 1000 product reviews in 30 seconds </br>Save 30-60 minutes of operation time daily"
+    },
+    "tailored_insights_subtitle": {
+      "en": "👩‍🚀 Provide Customized Analysis Results Tailored to Your Needs 👩‍🚀"
+    },
+    "position_and_focus": {
+      "en": "No matter you are in <u>{}</u>, </br>or you are interested in <u>{}</u>, </br>we provide you with customized analysis"
+    },
+    "ecommerce_compatibility_subtitle": {
+      "en": "🛒 Compatible with All Major E-commerce Solutions 🛒"
+    }
+}
+  
