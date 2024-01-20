@@ -8,7 +8,7 @@ It provides an intuitive user interface, enabling users to upload raw review dat
 
 ##  About the Application
 
-Lightning Insights[https://lightning-insights-bpmtrgvl6rigzde2xu8umo.streamlit.app/] consists of 2 main pages, each designed with the end user in mind:
+[Lightning Insights](https://lightning-insights-bpmtrgvl6rigzde2xu8umo.streamlit.app/) consists of 2 main pages, each designed with the end user in mind:
 
 1. **Home**: This page serves as an introduction to the application. It showcases the value and functionality of the tool to potential users, offering a detailed overview of what the tool can achieve.
 
